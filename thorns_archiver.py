@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import sys
 import os
 
-url_stem = "https://thorns.thecomicseries.com/comics/"
+url_stem = "https://2019thorns.thecomicseries.com/comics/"
 
 root_dir = sys.argv[1]
 
